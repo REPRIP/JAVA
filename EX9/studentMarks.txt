@@ -1,0 +1,10 @@
+Tommy,25
+Arthur,90
+John,95
+Frank,45
+Tony,67
+Ada,89
+Alice,58
+Bob,20
+David,98
+Cat,12
